@@ -1,0 +1,17 @@
+Use the command to install and run : (React+vite) in terminal.
+
+1) npm create vite@latest my-app -- --template react    // use any project name instead"my-app"
+cd my-app    //
+npm install
+npm run dev
+
+2)import the file in the App.jsx and conncet the component name with "Timer.jsx". 
+also, link the Timer.css in App.jsx
+
+3)install tailwind css in the react project. The link below may be helpful for docucmentation.
+https://tailwindcss.com/docs/installation/using-vite
+
+4) functionality:
+	-The timer has 3 button, start, stop and Reset to do task accordingly. The time can be seen in 
+	hh:mm:ss formate. 
+
